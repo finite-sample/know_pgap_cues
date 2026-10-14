@@ -73,3 +73,7 @@ Plot and table defaults live together in `00_config.R`. The manuscript loads the
 The public extracts omit direct identifiers and free text. Authorized holders can regenerate the extracts with `Rscript R/01_prepare_public_data.R /path/to/original/data`. Source hashes are recorded in `docs/source_manifest.csv`. See [data documentation](docs/data.md) for coding and provenance.
 
 Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
