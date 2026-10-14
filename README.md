@@ -76,4 +76,14 @@ Citation metadata is in [CITATION.cff](CITATION.cff).
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [finite-sample/know_pgap_review](https://github.com/finite-sample/know_pgap_review) — Replication Materials For "A Gap in Our Understanding? Reconsidering the Evidence for Partisan Knowledge Gaps"
+- [finite-sample/know_hidden](https://github.com/finite-sample/know_hidden) — Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
+- [finite-sample/know_casablanca](https://github.com/finite-sample/know_casablanca) — The Waters of Casablanca: On Political Misinformation \(Luskin and Sood\). Data, code, and manuscript.
+- [finite-sample/know_pgap_format](https://github.com/finite-sample/know_pgap_format) — How do \(biased\) guessing encouraging features and guessing agnostic coding techniques affect the partisan gap?
+- [finite-sample/know_misinfo_misinfo](https://github.com/finite-sample/know_misinfo_misinfo) — Misinformation about Misinformation? Of Headlines and Survey Design \(Luskin, Sood, Park, Blank\)
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
